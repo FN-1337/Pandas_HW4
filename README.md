@@ -1,6 +1,6 @@
-# Pandas_HW4
+
 A Whale Off the Port(folio)
-Unit 4 Homework Assignment: A Whale Off the Port(folio)
+
 
 
 Background
@@ -160,27 +160,3 @@ Supplemental Guide: Fetching Stock Data Using Google Sheets
 
 
 
-Hints
-
-
-After reading each CSV file, don't forget to sort each DataFrame in ascending order by the Date using sort_index. This is especially important when working with time series data, as we want to make sure Date indexes go from earliest to latest.
-
-
-The Pandas functions used in class this week will be useful for this assignment.
-
-
-Be sure to use head() or tail() when you want to look at your data, but don't want to print to a large DataFrame.
-
-
-
-
-Submission
-
-
-Use the provided starter Jupyter Notebook to house the code for your data preparation, analysis, and visualizations. Put any analysis or answers to assignment questions in raw text (markdown) cells in the report.
-
-
-Submit your notebook to a new GitHub repository.
-
-
-Add the URL of your GitHub repository to your assignment when submitting via Bootcamp Spot.
